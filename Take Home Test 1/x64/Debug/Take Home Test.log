@@ -1,0 +1,2 @@
+﻿TakeHomeTestP2.obj : error LNK2005: main already defined in TakeHomeTestP1.obj
+C:\Users\zixua\source\repos\Take Home Test 1\Take Home Test\x64\Debug\Take Home Test.exe : fatal error LNK1169: one or more multiply defined symbols found
