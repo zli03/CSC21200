@@ -1,0 +1,7 @@
+﻿  HW3P1.cpp
+  HW3P2.cpp
+C:\Users\zixua\source\repos\Homework 3\HW3P2.cpp(28,7): warning C4215: nonstandard extension used: long float
+C:\Users\zixua\source\repos\Homework 3\HW3P2.cpp(33): warning C4215: nonstandard extension used: long float
+C:\Users\zixua\source\repos\Homework 3\HW3P2.cpp(33,10): warning C4215: nonstandard extension used: long float
+  Generating Code...
+  Homework 3.vcxproj -> C:\Users\zixua\source\repos\Homework 3\x64\Debug\Homework 3.exe
